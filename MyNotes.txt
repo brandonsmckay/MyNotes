@@ -1,1 +1,2 @@
 This is my note in the starting master branch
+Making a change from MyNotes2
